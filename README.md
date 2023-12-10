@@ -36,9 +36,6 @@ MDN, Google, Course material
 ## Contact Me:
 github username: zjw1239
 
-## Sources:
-undefined
-
 ## License:
 [![License](https://img.shields.io/badge/License-none}.svg)](https://opensource.org/licenses/none)
         
