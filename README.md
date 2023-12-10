@@ -14,8 +14,6 @@
 
 [Contact me](#contact-me)
 
-[Sources](#sources)
-
 [License](#license)
 
 ## Installation:
